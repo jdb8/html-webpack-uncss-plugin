@@ -30,7 +30,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "mocha": "^6.2.0"
   }
 }
